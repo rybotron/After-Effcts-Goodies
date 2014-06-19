@@ -2,4 +2,5 @@ Rybotron After Effects Goodies
 ------------------------------------------
 
 ### Fluid Grid
-[![Horizontal Fluid Grid](/fluidGrid/images/fluidGrid.png)](/fluidGrid/)
+<img src="s/fluidGrid/images/fluidGrid.png" height="400">
+
