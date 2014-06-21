@@ -14,7 +14,5 @@ An expression-driven, left-justified, fluid grid with controllable horizontal an
 <br />
 Retina display cursor with checkbox control to switch between mouse pointer and finger pointer. Simple but useful. [Download it here.](http://bit.ly/retinacursor)
 <br />
-[<img src="/cursor/images/cursor.jpg">](/cursor/)
-
 [![Cursor Image](/cursor/images/cursor.jpg)](/cursor/)
 
